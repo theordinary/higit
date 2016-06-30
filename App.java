@@ -1,4 +1,4 @@
 public class App {
-    int id;
-    String name;
+    int appId;
+    String appName;
 }
